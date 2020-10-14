@@ -2,7 +2,7 @@
 
 A Hangman game that features portrait and landscape views on the phone
 
-# Usage
+## Usage
 
 Android Studio version 3.4.1 or higher
 
